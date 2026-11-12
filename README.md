@@ -2,7 +2,7 @@
 
 **Name:** Ayesha Kashaf Aslam<br>
 **Registration No:** 515191<br>
-**Course:** CS-370 : Artificial Intelligence
+**Course:** CS-370 : Artificial Intelligence<br>
 **Lab Title:** Lab 01 - Designing Using Fractals
 
 ## Description
