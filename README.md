@@ -33,4 +33,4 @@ python fractal_tree.py
 - Thick branches are brown and thin ones are green.
 
 ## Output
-![Output](output.png)
+![Output](Output.png)
